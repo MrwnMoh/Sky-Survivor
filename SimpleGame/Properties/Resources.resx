@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="LeftRun__009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__009.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__008.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__006" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__006.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__005" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__005.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Spell_Frame_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Spell_Frame_01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__006" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__006.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Spell_Frame_02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Spell_Frame_02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftRun__008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__008.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftRun__004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire Arrow_Frame_07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Arrow_Frame_07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftRun__000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__007.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__002.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__002.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__002.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__008.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Spell_Frame_05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Spell_Frame_05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__005" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__005.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__006" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__006.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire Arrow_Frame_08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Arrow_Frame_08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire Arrow_Frame_06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Arrow_Frame_06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__009.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__007.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__007.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__003" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__003.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire Arrow_Frame_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Arrow_Frame_01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__003" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__003.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__009.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftRun__003" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__003.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Spell_Frame_04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Spell_Frame_04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__007.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Spell_Frame_08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Spell_Frame_08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftRun__007" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__007.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Spell_Frame_06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Spell_Frame_06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Spell_Frame_03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Spell_Frame_03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__009.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__008.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__005" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__005.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__006" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__006.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_09.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__003" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__003.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngimg.com - coin_PNG36871" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngimg.com - coin_PNG36871.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftRun__002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__002.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftRun__001" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire Arrow_Frame_04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Arrow_Frame_04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slide__000" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slide__000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__008" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__008.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire Arrow_Frame_02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Arrow_Frame_02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftRun__005" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__005.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Idle__004" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Idle__004.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__002" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__002.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftRun__006" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftRun__006.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Run__009" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Run__009.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__005" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__005.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire Arrow_Frame_03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Arrow_Frame_03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="LeftSlide__003" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LeftSlide__003.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fire Arrow_Frame_05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fire Arrow_Frame_05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Ball_Frame_04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Ball_Frame_04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Water Spell_Frame_07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Water Spell_Frame_07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngimg.com - cloud_PNG112271" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngimg.com - cloud_PNG112271.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
