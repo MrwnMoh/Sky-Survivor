@@ -61,6 +61,15 @@ namespace SimpleGame.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Coin_2 {
+            get {
+                return ResourceManager.GetStream("Coin_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
         internal static System.Drawing.Bitmap Fire_Arrow_Frame_01 {
@@ -137,6 +146,33 @@ namespace SimpleGame.Properties {
             get {
                 object obj = ResourceManager.GetObject("Fire Arrow_Frame_08", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Footstep_Wood_2 {
+            get {
+                return ResourceManager.GetStream("Footstep_Wood_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Footstep_Wood3 {
+            get {
+                return ResourceManager.GetStream("Footstep_Wood3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream freesound_community_hurt_c_08_102842 {
+            get {
+                return ResourceManager.GetStream("freesound_community_hurt_c_08_102842", resourceCulture);
             }
         }
         
@@ -457,6 +493,15 @@ namespace SimpleGame.Properties {
             get {
                 object obj = ResourceManager.GetObject("pngimg.com - coin_PNG36871", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+        /// </summary>
+        internal static System.IO.UnmanagedMemoryStream Pop__9_ {
+            get {
+                return ResourceManager.GetStream("Pop__9_", resourceCulture);
             }
         }
         

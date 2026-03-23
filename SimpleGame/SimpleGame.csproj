@@ -335,6 +335,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\Coin 2.wav" />
+    <None Include="Resources\Pop %289%29.wav" />
+    <None Include="Resources\freesound_community-hurt_c_08-102842.wav" />
+    <None Include="Resources\Footstep Wood3.wav" />
+    <None Include="Resources\Footstep Wood 2.wav" />
+    <None Include="Resources\Coin 21.wav" />
     <None Include="Resources\pngimg.com - cloud_PNG112271.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

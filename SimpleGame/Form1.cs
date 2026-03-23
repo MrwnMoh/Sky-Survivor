@@ -68,13 +68,13 @@ namespace SimpleGame
 
 
 
-        SoundPlayer CoinSound = new SoundPlayer(@"D:\Assets\Edit\SFX\Coin\Coin 2.wav");  
-        SoundPlayer FootStepsSound1 = new SoundPlayer(@"D:\Assets\Edit\SFX\Footstep\Footstep Wood 2.wav");  
-        SoundPlayer FootStepsSound2 = new SoundPlayer(@"D:\Assets\Edit\SFX\Footstep\Footstep Wood3.wav");
-        SoundPlayer HitSound = new SoundPlayer(@"D:\Assets\Edit\SFX\Hit\freesound_community-hurt_c_08-102842.wav");
-        SoundPlayer WaterSound = new SoundPlayer(@"D:\Assets\Edit\SFX\Pop\Pop (9).wav");
-        
-        
+        SoundPlayer CoinSound = new SoundPlayer(Properties.Resources.Coin_2);
+        SoundPlayer FootStepsSound1 = new SoundPlayer(Properties.Resources.Footstep_Wood3);
+        SoundPlayer FootStepsSound2 = new SoundPlayer(Properties.Resources.Footstep_Wood_2);
+        SoundPlayer HitSound = new SoundPlayer(Properties.Resources.freesound_community_hurt_c_08_102842);
+        SoundPlayer WaterSound = new SoundPlayer(Properties.Resources.Pop__9_);
+
+
 
         byte CurrentFootStepsSound = 0;
 

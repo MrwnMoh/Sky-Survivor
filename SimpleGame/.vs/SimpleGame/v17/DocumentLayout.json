@@ -1,30 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\",
+  "WorkspaceRootPath": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|e:\\marwan\\courses\\c\u002B\u002B\\14\\simplegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\frmgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:frmgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|e:\\marwan\\courses\\c\u002B\u002B\\14\\simplegame\\frmgameover.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:frmgameover.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|e:\\marwan\\courses\\c\u002B\u002B\\14\\simplegame\\frmgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:frmgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\resources\\clsfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SimpleGame||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|e:\\marwan\\my projects\\c\u002B\u002B\\github\\sky survivor\\simplegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\frmgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:frmgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\frmgameover.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:frmgameover.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\frmgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:frmgameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\resources\\clsfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:resources\\clsfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|e:\\marwan\\my projects\\c\u002B\u002B\\github\\sky survivor\\simplegame\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1DDA3455-2E0F-445E-B9F3-44C785DDEB12}|SimpleGame.csproj|solutionrelative:properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,75 +45,83 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmGameOver.Designer.cs",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\frmGameOver.Designer.cs",
-              "RelativeDocumentMoniker": "frmGameOver.Designer.cs",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\frmGameOver.Designer.cs",
-              "RelativeToolTip": "frmGameOver.Designer.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAIAwwI8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T18:32:06.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmGameOver.cs",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\frmGameOver.cs",
-              "RelativeDocumentMoniker": "frmGameOver.cs",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\frmGameOver.cs",
-              "RelativeToolTip": "frmGameOver.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwEQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T17:54:39.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmGameOver.cs [Design]",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\frmGameOver.cs",
-              "RelativeDocumentMoniker": "frmGameOver.cs",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\frmGameOver.cs [Design]",
-              "RelativeToolTip": "frmGameOver.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T19:19:18.901Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "clsFire.cs",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\Resources\\clsFire.cs",
-              "RelativeDocumentMoniker": "Resources\\clsFire.cs",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\Resources\\clsFire.cs",
-              "RelativeToolTip": "Resources\\clsFire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-19T19:06:58.563Z",
+              "Title": "SimpleGame",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\SimpleGame.csproj",
+              "RelativeDocumentMoniker": "SimpleGame.csproj",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\SimpleGame.csproj",
+              "RelativeToolTip": "SimpleGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-23T04:14:05.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "frmGameOver.Designer.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\frmGameOver.Designer.cs",
+              "RelativeDocumentMoniker": "frmGameOver.Designer.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\frmGameOver.Designer.cs",
+              "RelativeToolTip": "frmGameOver.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAIAwwI8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T18:32:06.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGameOver.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\frmGameOver.cs",
+              "RelativeDocumentMoniker": "frmGameOver.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\frmGameOver.cs",
+              "RelativeToolTip": "frmGameOver.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T17:54:39.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGameOver.cs [Design]",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\frmGameOver.cs",
+              "RelativeDocumentMoniker": "frmGameOver.cs",
+              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\frmGameOver.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Courses\\c\u002B\u002B\\14\\SimpleGame\\frmGameOver.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:19:18.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsFire.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\Resources\\clsFire.cs",
+              "RelativeDocumentMoniker": "Resources\\clsFire.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\Resources\\clsFire.cs",
+              "RelativeToolTip": "Resources\\clsFire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T19:06:58.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\Form1.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\Form1.cs",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADECAAAAAAAAAAAiwGECAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T00:15:00.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\Form1.cs",
+              "DocumentMoniker": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Marwan\\Courses\\c\u002B\u002B\\14\\SimpleGame\\Form1.cs [Design]",
+              "ToolTip": "E:\\Marwan\\My projects\\c\u002B\u002B\\Github\\Sky Survivor\\SimpleGame\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T00:07:21.896Z",

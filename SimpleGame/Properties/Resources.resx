@@ -358,4 +358,19 @@
   <data name="pngimg.com - cloud_PNG112271" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngimg.com - cloud_PNG112271.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Coin_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Coin 21.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Footstep_Wood3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Footstep Wood3.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Footstep_Wood_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Footstep Wood 2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="freesound_community_hurt_c_08_102842" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\freesound_community-hurt_c_08-102842.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Pop__9_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pop (9).wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
